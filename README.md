@@ -35,11 +35,23 @@ const ajeyata = {
     "NBA Accreditation AI Agent (IBM watsonx Orchestrate)"
   ],
   certifications: [
-    "Claude 101",
-    "AI Fluency",
-    "Claude Code in Action",
     "GFG Hackfest",
-    "Deloitte Cyber Virtual Internship"
+    "IBM Getting Started with Artificial Intelligence",
+    "IBM Getting Started with Cybersecurity",
+    "IBM Getting Exploring Quantum Computing",
+    "IBM Level Up Cybersecurity with Generative AI",
+    "IBM Lab: Troubleshoot Your Code Using IBM Bob",
+    "Deloitte Data Analytics Job Simulation",
+    "Deloitte Cyber Job Simulation",
+    "Deloitte Technology Job Simulation",
+    "TATA GenAI Powered Data Analytics Job Simulation",
+    "TATA Data Visualisation: Empowering Business with Effective Insights",
+    "JP MORGAN CHASE & CO. Software Engineering Job Simulation", 
+    "Walmart Advanced Software Engineering Job Simulation",
+    "Cognitiveclass.ai SQL and Relational Databases 101",
+    "Claude 101",
+    "AI Fluency: Framework & Foundations",
+    "Claude Code in Action"
   ],
   status: "Building projects, learning web development, growing my portfolio",
   openTo: ["Internships", "Collaboration", "Learning opportunities"]
