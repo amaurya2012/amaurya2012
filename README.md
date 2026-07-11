@@ -34,11 +34,22 @@ const ajeyata = {
     "Basics-of-Python"
   ],
   certifications: [
-    "Claude 101",
-    "AI Fluency",
-    "Claude Code in Action",
     "GFG Hackfest",
-    "Deloitte Cyber Virtual Internship"
+    "IBM Getting Started with Artificial Intelligence",
+    "IBM Getting Started with Cybersecurity",
+    "IBM Explroing Quantum Computing",
+    "IBM Level Up cyberseurity with Generartive AI",
+    "IBM Lab: Troubleshoot Your Code Using IBM Bob
+    "IBM CognitiveClass.ai SQL and Relational Databases 101",
+    "Deloitte Cyber Job Simulation",
+    "Deloitte Data Analytics Job Simulation",
+    "Deloitte Technology Job Simulation",
+    "TATA GenAI Powered Data Analytics Job Simulation",
+    "TATA Data Visualisation: Empowering Business with Effective Insights",
+    "Walmart Advanced Software engineering Job Simulation",
+    "Claude 101",
+    "AI Fluency: Framework & Foundations",
+    "Claude Code in Action"
   ],
   status: "Building projects, learning web development, growing my portfolio",
   openTo: ["Internships", "Collaboration", "Learning opportunities"]
