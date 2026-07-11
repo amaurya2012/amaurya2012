@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Ajeyata%20Maurya&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Ajeyata%20Maurya&fontSize=45&fontColor=4db6ac&animation=twinkling&fontAlignY=35" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%2B+Data+Science+Student;Building+with+Python+%26+Django;Exploring+AI+%2F+ML+and+Web+Development;Always+shipping+something+new" alt="Typing SVG" />
@@ -8,8 +8,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amaurya2012&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/amaurya2012?color=7dd3fc&style=flat-square&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=amaurya2012&color=4db6ac&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/amaurya2012?color=4db6ac&style=flat-square&label=Followers)
 
 </div>
 
@@ -30,7 +30,8 @@ const ajeyata = {
     "Nutrition-Chatbot",
     "A-s-Library",
     "Inkhaven",
-    "E-COMMERCE-DJANGO"
+    "E-COMMERCE-DJANGO",
+    "Basics-of-Python"
   ],
   certifications: [
     "Claude 101",
@@ -50,7 +51,7 @@ const ajeyata = {
 
 #### 🥗 Nutrition Chatbot
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amaurya2012&repo=Nutrition-Chatbot&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amaurya2012&repo=Nutrition-Chatbot&theme=nord&border_color=4db6ac&title_color=4db6ac" />
 
 An AI-powered chatbot that offers personalized nutrition guidance and diet recommendations.
 
@@ -66,7 +67,7 @@ An AI-powered chatbot that offers personalized nutrition guidance and diet recom
 
 #### 📚 A's Library — Personal Library & Reading Tracker
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amaurya2012&repo=A-s-Library&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amaurya2012&repo=A-s-Library&theme=nord&border_color=4db6ac&title_color=4db6ac" />
 
 A personal library and reading tracker web app to organize books and track reading progress.
 
@@ -82,7 +83,7 @@ A personal library and reading tracker web app to organize books and track readi
 
 #### ✍️ Inkhaven
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amaurya2012&repo=Inkhaven&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amaurya2012&repo=Inkhaven&theme=nord&border_color=4db6ac&title_color=4db6ac" />
 
 A Progressive Web App for writers to draft, organize, and publish their stories from anywhere.
 
@@ -98,7 +99,7 @@ A Progressive Web App for writers to draft, organize, and publish their stories 
 
 #### 🛒 E-Commerce (Django)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amaurya2012&repo=E-COMMERCE-DJANGO&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amaurya2012&repo=E-COMMERCE-DJANGO&theme=nord&border_color=4db6ac&title_color=4db6ac" />
 
 A full-stack e-commerce web application with product listings, cart, and order management.
 
@@ -109,6 +110,21 @@ A full-stack e-commerce web application with product listings, cart, and order m
 | Database | SQLite |
 
 🔗 [Code](https://github.com/amaurya2012/E-COMMERCE-DJANGO)
+
+<br/>
+
+#### 🐍 Basics of Python
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amaurya2012&repo=Basics-of-Python&theme=nord&border_color=4db6ac&title_color=4db6ac" />
+
+A collection of core Python fundamentals and practice programs built while strengthening the basics.
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Focus | Core concepts & practice |
+
+🔗 [Code](https://github.com/amaurya2012/Basics-of-Python)
 
 <br/>
 
@@ -134,10 +150,10 @@ A full-stack e-commerce web application with product listings, cart, and order m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amaurya2012&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurya2012&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=amaurya2012&show_icons=true&theme=nord&border_color=4db6ac&title_color=4db6ac&icon_color=7facfe" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurya2012&layout=compact&theme=nord&border_color=4db6ac&title_color=4db6ac" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=amaurya2012&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=amaurya2012&background=0D1117&border=4db6ac&ring=4db6ac&fire=7facfe&currStreakLabel=4db6ac" width="70%" />
 
 </div>
 
@@ -150,7 +166,7 @@ A full-stack e-commerce web application with product listings, cart, and order m
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaurya2012&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&bg_color=00000000" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaurya2012&color=4db6ac&line=4db6ac&point=7facfe&area=true&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
@@ -165,4 +181,4 @@ A full-stack e-commerce web application with product listings, cart, and order m
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&animation=twinkling" />
