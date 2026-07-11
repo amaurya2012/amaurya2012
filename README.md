@@ -31,25 +31,15 @@ const ajeyata = {
     "A-s-Library",
     "Inkhaven",
     "E-COMMERCE-DJANGO",
-    "Basics-of-Python"
+    "Basics-of-Python",
+    "NBA Accreditation AI Agent (IBM watsonx Orchestrate)"
   ],
   certifications: [
-    "GFG Hackfest",
-    "IBM Getting Started with Artificial Intelligence",
-    "IBM Getting Started with Cybersecurity",
-    "IBM Explroing Quantum Computing",
-    "IBM Level Up cyberseurity with Generartive AI",
-    "IBM Lab: Troubleshoot Your Code Using IBM Bob
-    "IBM CognitiveClass.ai SQL and Relational Databases 101",
-    "Deloitte Cyber Job Simulation",
-    "Deloitte Data Analytics Job Simulation",
-    "Deloitte Technology Job Simulation",
-    "TATA GenAI Powered Data Analytics Job Simulation",
-    "TATA Data Visualisation: Empowering Business with Effective Insights",
-    "Walmart Advanced Software engineering Job Simulation",
     "Claude 101",
-    "AI Fluency: Framework & Foundations",
-    "Claude Code in Action"
+    "AI Fluency",
+    "Claude Code in Action",
+    "GFG Hackfest",
+    "Deloitte Cyber Virtual Internship"
   ],
   status: "Building projects, learning web development, growing my portfolio",
   openTo: ["Internships", "Collaboration", "Learning opportunities"]
@@ -137,6 +127,18 @@ A collection of core Python fundamentals and practice programs built while stren
 | Focus | Core concepts & practice |
 
 🔗 [Code](https://github.com/amaurya2012/Basics-of-Python)
+
+<br/>
+
+#### 🏀 NBA Accreditation AI Agent
+
+An agentic RAG-based AI agent built on **IBM watsonx Orchestrate**, designed to assist with NBA accreditation queries — including custom Python tools for formula-based calculations (SFR, API, FQI).
+
+| Layer | Technology |
+|---|---|
+| Platform | IBM watsonx Orchestrate |
+| Approach | Agentic RAG |
+| Tools | Custom Python calculation tools |
 
 <br/>
 
