@@ -85,13 +85,14 @@ A personal library and reading tracker web app to organize books and track readi
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amaurya2012&repo=Inkhaven&theme=nord&border_color=4fc3f7&title_color=4fc3f7" />
 
-A Progressive Web App for writers to draft, organize, and publish their stories from anywhere.
+A Progressive Web App for writers to draft, organize, and publish their stories from anywhere — with formatted PDF/DOCX export.
 
 | Layer | Technology |
 |---|---|
 | App Type | PWA |
 | Frontend | HTML, CSS, JavaScript |
 | Focus | Book-writing workflow |
+| Export | PDF/DOCX with preserved bold, italic, underline, alignment & centered chapter titles |
 
 🌐 [Live](https://inkhaven-orpin.vercel.app) &nbsp;|&nbsp; 🔗 [Code](https://github.com/amaurya2012/Inkhaven)
 
