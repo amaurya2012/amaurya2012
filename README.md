@@ -153,7 +153,7 @@ A collection of core Python fundamentals and practice programs built while stren
 <img src="https://github-readme-stats.vercel.app/api?username=amaurya2012&show_icons=true&theme=nord&border_color=4db6ac&title_color=4db6ac&icon_color=7facfe" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurya2012&layout=compact&theme=nord&border_color=4db6ac&title_color=4db6ac" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=amaurya2012&background=0D1117&border=4db6ac&ring=4db6ac&fire=7facfe&currStreakLabel=4db6ac" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=amaurya2012&background=0D1117&border=4db6ac&stroke=4db6ac&ring=4db6ac&fire=7facfe&currStreakNum=D0D7DE&sideNums=D0D7DE&currStreakLabel=4db6ac&sideLabels=D0D7DE&dates=7facfe" width="70%" />
 
 </div>
 
